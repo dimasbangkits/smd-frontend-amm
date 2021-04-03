@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'http://cubdefi.com/',
+    href: 'https://smdboys.netlify.app/',
   },
   {
     label: 'Trade',
@@ -12,18 +12,9 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.cubdefi.com/',
-      },
-      {
-        label: 'Liquidity',
-        href: 'https://exchange.cubdefi.com/#/pool',
+        href: 'https://smdboys.netlify.app/',
       },
     ],
-  },
-  {
-    label: 'Farms',
-    icon: 'FarmIcon',
-    href: 'https://cubdefi.com/farms',
   },
 ]
 
