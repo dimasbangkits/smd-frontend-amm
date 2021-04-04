@@ -14,6 +14,9 @@ const Nav = ({ activeIndex = 0 }: { activeIndex?: number }) => (
       <ButtonMenuItem id="swap-nav-link" to="/swap" as={Link}>
         <TranslatedText translationId={8}>Swap</TranslatedText>
       </ButtonMenuItem>
+      <ButtonMenuItem id="pool-nav-link" to="/pool" as={Link}>
+        <TranslatedText translationId={74}>Liquidity</TranslatedText>
+      </ButtonMenuItem>
     </ButtonMenu>
   </StyledNav>
 )
