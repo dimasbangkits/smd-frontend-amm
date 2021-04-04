@@ -19,7 +19,7 @@ const config: MenuEntry[] = [
         label: 'Liquidity',
         href: '/pool'
       }
-    ]
+    ],
   },
   {
     label: 'Farms',
@@ -31,6 +31,7 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: 'https://www.goosedefi.com/nests'
   },
+]
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
@@ -91,6 +92,6 @@ const config: MenuEntry[] = [
  //   icon: 'AuditIcon',
  //   href: 'https://certik.org/projects/goose-finance',
  // },
-]
+
 
 export default config
