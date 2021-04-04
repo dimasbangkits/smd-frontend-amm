@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@https://github.com/dimasbangkits/smd-uikit":
   version "0.10.2"
-  resolved "https://github.com/dimasbangkits/smd-uikit#a98c6618fd5b1fe3a543ac478d4110a7d4214145"
+  resolved "https://github.com/dimasbangkits/smd-uikit#e5767e5862fa8d513b62c09c46c98e29ceb55a78"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
